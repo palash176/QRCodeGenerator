@@ -10,4 +10,8 @@ Server runs QR code Generator Service and utility to gather POST/GET request fro
 Server has few Request/Response model files for submitting required Text details for QR code generation. These models can be altered according to requirement and follow standard V-Card request details
 Need to ensure application.properties in SRC/main/java files has path to docs path for bulk upload and excel read.
 
+Frontend `web_application-main.zip` needs to be extracted and within folder 
+`npm install`
+`npm start`
 
+Run NPM server to allow local hosting of React app at http://localhost:3000/qrgeneratorWeb
