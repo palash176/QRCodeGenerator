@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/qrgeneratorWeb/static/css/main.f0679f2e.css",
+    "main.js": "/qrgeneratorWeb/static/js/main.137fb4c9.js",
+    "static/media/dkg_logo.png": "/qrgeneratorWeb/static/media/dkg_logo.5374eec7e354bcba9504.png",
+    "index.html": "/qrgeneratorWeb/index.html",
+    "main.f0679f2e.css.map": "/qrgeneratorWeb/static/css/main.f0679f2e.css.map",
+    "main.137fb4c9.js.map": "/qrgeneratorWeb/static/js/main.137fb4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0679f2e.css",
+    "static/js/main.137fb4c9.js"
+  ]
+}

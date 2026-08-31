@@ -1,0 +1,84 @@
+
+.visiting-card {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  height: fit-content;
+  background-color: #dedede;
+  box-sizing: border-box;
+  border: 1px double black;
+  border-style: double;
+
+}
+
+.Label-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  // border: 2ps solid black !important;
+  width: 500px;
+}
+.Label-card-contentarea{
+max-width: 230px;
+}
+// .logo-container {
+//   margin-right: 16px;
+  
+// }
+
+.labellogo {
+  width: 80px;
+  border-radius: 50%;
+  height: 80px;
+  object-fit: auto;
+  border: 2px solid #4f4f4f;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  margin-left: 1rem;
+}
+
+.qr-code {
+  width: 200px;
+}
+
+.qr-code-placeholder {
+  width: 200px;
+  height: 200px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+}
+
+.qr-code img {
+  width: 100%;
+}
+
+.details {
+  text-align: center;
+}
+
+.title {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.description {
+  font-size: 14px;
+  color: #1a1818;
+text-align: justify;  
+}
